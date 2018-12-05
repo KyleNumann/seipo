@@ -1,0 +1,28 @@
+[10-Jul-2018 07:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/seiowarentals/public_html/wp-content/themes/outlines/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/header.php on line 11
+[10-Jul-2018 07:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/seiowarentals/public_html/wp-content/themes/outlines/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/index.php on line 15
+[10-Jul-2018 07:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/seiowarentals/public_html/wp-content/themes/outlines/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/header.php on line 11
+[10-Jul-2018 07:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/seiowarentals/public_html/wp-content/themes/outlines/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/index.php on line 15
+[03-Dec-2018 23:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/seiowarentals/public_html/wp-content/themes/outlines/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/404.php on line 9
+[03-Dec-2018 23:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/seiowarentals/public_html/wp-content/themes/outlines/archive.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/archive.php on line 11
+[03-Dec-2018 23:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/seiowarentals/public_html/wp-content/themes/outlines/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/seiowarentals/public_html/wp-content/themes/outlines/404.php on line 9

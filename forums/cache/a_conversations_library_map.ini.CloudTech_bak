@@ -1,0 +1,4 @@
+[cache]
+conversationmodel = "/home/content/73/10260873/html/forums/applications/conversations/models/class.conversationmodel.php"
+conversationmessagemodel = "/home/content/73/10260873/html/forums/applications/conversations/models/class.conversationmessagemodel.php"
+newconversationmodule = "/home/content/73/10260873/html/forums/applications/conversations/modules/class.newconversationmodule.php"

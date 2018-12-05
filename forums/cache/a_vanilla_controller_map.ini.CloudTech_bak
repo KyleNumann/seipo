@@ -1,0 +1,9 @@
+[cache]
+postcontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.postcontroller.php"
+vanillacontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.vanillacontroller.php"
+discussioncontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.discussioncontroller.php"
+categoriescontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.categoriescontroller.php"
+discussionscontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.discussionscontroller.php"
+settingscontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.settingscontroller.php"
+draftscontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.draftscontroller.php"
+categorycontroller = "/home/content/73/10260873/html/forums/applications/vanilla/controllers/class.categorycontroller.php"

@@ -1,0 +1,11 @@
+[cache]
+vanillamodel = "/home/content/73/10260873/html/forums/applications/vanilla/models/class.vanillamodel.php"
+commentmodel = "/home/content/73/10260873/html/forums/applications/vanilla/models/class.commentmodel.php"
+discussionmodel = "/home/content/73/10260873/html/forums/applications/vanilla/models/class.discussionmodel.php"
+draftmodel = "/home/content/73/10260873/html/forums/applications/vanilla/models/class.draftmodel.php"
+categorymodel = "/home/content/73/10260873/html/forums/applications/vanilla/models/class.categorymodel.php"
+newdiscussionmodule = "/home/content/73/10260873/html/forums/applications/vanilla/modules/class.newdiscussionmodule.php"
+categoriesmodule = "/home/content/73/10260873/html/forums/applications/vanilla/modules/class.categoriesmodule.php"
+bookmarkedmodule = "/home/content/73/10260873/html/forums/applications/vanilla/modules/class.bookmarkedmodule.php"
+categoryfollowtogglemodule = "/home/content/73/10260873/html/forums/applications/vanilla/modules/class.categoryfollowtogglemodule.php"
+vanillasearchmodel = "/home/content/73/10260873/html/forums/applications/vanilla/models/class.vanillasearchmodel.php"
